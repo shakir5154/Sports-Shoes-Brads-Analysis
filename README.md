@@ -62,23 +62,6 @@ The data used in this analysis includes three CSV files:
     - Defining columns for plotting various metrics such as followers, gender, and age demographics.
     - Creating visualizations using `ggplot2`.
 
-## Running the Code
-
-1. Clone the repository:
-
-    ```bash
-    git clone https://github.com/yourusername/Sports-Shoes-Brand-Data-Analysis.git
-    cd Sports-Shoes-Brand-Data-Analysis
-    ```
-
-2. Ensure the CSV files are placed in the appropriate directory as mentioned in the code.
-
-3. Run the R script:
-
-    ```R
-    source("analysis.R")
-    ```
-
 ## Output
 
 The script generates various plots and summaries that provide insights into the social media and web presence of different sports shoe brands.
